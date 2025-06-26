@@ -25,7 +25,7 @@ This Tableau dashboard provides an interactive exploration of Airbnb listings in
 | File | Description |
 |------|-------------|
 | `NYC Airbnb.twbx` | Tableau dashboard file |
-| `screenshots/dashboard.png` | Screenshot of the final dashboard |
+| `Screenshot/Dashboard.jpg` | Screenshot of the final dashboard |
 
 ---
 
